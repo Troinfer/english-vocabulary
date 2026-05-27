@@ -1,1 +1,27 @@
-IyDwn5OKIOWtpuS5oOi/m+W6puaAu+iniAoKIyMg57uf6K6h5pWw5o2uCgp8IOmhueebriB8IOaVsOmHjyB8CnwtLS0tLS18LS0tLS0tfAp8IOe0r+iuoeWtpuS5oOWNleivjSB8IDAgfAp8IOW3suaOjOaPoeWNleivjSB8IDAgfAp8IOW+heWkjeS5oOWNleivjSB8IDAgfAp8IOi/nue7reWtpuS5oOWkqeaVsCB8IDAgfAp8IOW8gOWni+aXpeacnyB8IDIwMjYtMDUtMjcgfAoKLS0tCgojIyDwn5OFIOWkjeS5oOiuoeWIku+8iOW+heWkjeS5oO+8iQoKPiDmr4/mrKHlrablrozmlrDljZXor43lkI7vvIxDbGF1ZGUg5Lya6Ieq5Yqo5pu05paw5q2k6KGoCgp8IOWNleivjeaJueasoSB8IOWtpuS5oOaXpeacnyB8IOS4i+asoeWkjeS5oCB8IOWkjeS5oOi9ruasoSB8IOeKtuaAgSB8CnwtLS0tLS0tLS18LS0tLS0tLS0tfC0tLS0tLS0tLXwtLS0tLS0tLS18LS0tLS0tfAp8ICoo5pqC5pegKSogfCAtIHwgLSB8IC0gfCAtIHwKCi0tLQoKIyMg8J+TiCDmr4/ml6XlrabkuaDorrDlvZUKCnwg5pel5pyfIHwg5paw5a2m5pWw6YePIHwg5aSN5Lmg5pWw6YePIHwg5aSH5rOoIHwKfC0tLS0tLXwtLS0tLS0tLS18LS0tLS0tLS0tfC0tLS0tLXwKfCAqKOaaguaXoCkqIHwgLSB8IC0gfCAtIHwKCi0tLQoKIyMg8J+PhiDlt7Lmjozmj6HljZXor43lupMKCj4g6L+e57utIDMg5qyh5aSN5Lmg6YCa6L+H546HIOKJpSA4MCUg5Y2z6KeG5Li65o6M5o+hCgoqKOaaguaXoCkqCg==
+# 📊 学习进度总览
+
+## 统计数据
+
+| 项目 | 数量 |
+|------|------|
+| 累计学习单词 | 10 |
+| 已掌握单词 | 0 |
+| 待复习单词 | 10 |
+| 连续学习天数 | 1 |
+| 开始日期 | 2026-05-27 |
+
+---
+
+## 📅 每日学习记录
+
+| 日期 | 主题 | 新学数量 | 复习数量 | 备注 |
+|------|------|---------|---------|------|
+| 2026-05-27 | GitHub界面词汇 | 10 | 0 | 首次学习 |
+
+---
+
+## 🏆 已掌握单词库
+
+> 连续3次复习通过率 ≥ 80% 即视为掌握
+
+*(暂无，继续加油！)*

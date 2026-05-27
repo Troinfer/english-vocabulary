@@ -1,1 +1,23 @@
-IyDwn5eT77iPIOWkjeS5oOiuoeWIkuihqAoKIyMg6K+05piOCi0g5q+P5om55Y2V6K+N5a2m5a6M5ZCO77yMQ2xhdWRlIOiHquWKqOWcqOatpOeZu+iusOWkjeS5oOiKgueCuQotIOWIsOacn+WJjeS4gOWkqeS8muaPkOmGkuS9oAotIOmAmui/h+agh+WHhu+8muW9k+asoea1i+ivleato+ehrueOhyDiiaUgODAlCgotLS0KCiMjIOW+heWkjeS5oOa4heWNlQoKfCDljZXor43mibnmrKEgfCDmlofku7bpk77mjqUgfCDlrabkuaDml6XmnJ8gfCBSMSjmrKHml6UpIHwgUjIoKzPlpKkpIHwgUjMoKzflpKkpIHwgUjQoKzE15aSpKSB8IFI1KCszMOWkqSkgfCDlhajpg6jlrozmiJAgfAp8LS0tLS0tLS0tfC0tLS0tLS0tLXwtLS0tLS0tLS18LS0tLS0tLS0tfC0tLS0tLS0tLXwtLS0tLS0tLS18LS0tLS0tLS0tfC0tLS0tLS0tLXwtLS0tLS0tLS18CnwgKijmmoLml6ApKiB8IC0gfCAtIHwgLSB8IC0gfCAtIHwgLSB8IC0gfCAtIHwKCi0tLQoKIyMg5Zu+5L6LCgotIOKsnCDlvoXlpI3kuaAKLSDinIUg5bey6YCa6L+HCi0g4p2MIOacqumAmui/h++8iOmcgOmHjee7g++8iQotIOKPsyDku4rml6XliLDmnJ8K
+# 🗓️ 复习计划表
+
+## 说明
+- 每批单词学完后，Claude 自动登记复习节点
+- 通过标准：当次测试正确率 ≥ 80%
+- 图例：⬜ 待复习 | ✅ 已通过 | ❌ 未通过（需重练）| ⏳ 今日到期
+
+---
+
+## 📋 复习总表
+
+| 单词批次 | 文件 | 学习日期 | R1(次日) | R2(+3天) | R3(+7天) | R4(+15天) | R5(+30天) | 完成 |
+|---------|------|---------|---------|---------|---------|---------|---------|------|
+| GitHub界面词汇(10词) | [2026-05-27](../words/2026-05-27.md) | 2026-05-27 | 2026-05-28 ⬜ | 2026-05-30 ⬜ | 2026-06-03 ⬜ | 2026-06-11 ⬜ | 2026-06-26 ⬜ | ⬜ |
+
+---
+
+## ⏳ 近期待复习（未来7天）
+
+| 日期 | 需复习批次 | 轮次 |
+|------|----------|------|
+| 2026-05-28 | GitHub界面词汇 | R1 |
+| 2026-05-30 | GitHub界面词汇 | R2 |
